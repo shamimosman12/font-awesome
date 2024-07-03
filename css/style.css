@@ -1,0 +1,14 @@
+.container{
+	width: 600px;
+	height: 100px;
+	background: red;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 auto;
+}
+.container i{
+	font-size: 30px;
+	color: #fff;
+	padding: 0 50px;
+}
